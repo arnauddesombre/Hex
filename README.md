@@ -5,7 +5,7 @@ This repository includes the source code in C++, a compiled version (Windows 64-
 
 Compilation instructions are included in the hex.cpp source code, which is the only source file needed.
 
-Hex's Artificial Intelligence is a Monte-Carlo, and the software uses parallel threading for macimum efficiency
+Hex's Artificial Intelligence is a Monte-Carlo, and the software uses parallel threading for maximum efficiency
 
 Hex is a board game described in Wikipedia:
 https://en.wikipedia.org/wiki/Hex_(board_game)
