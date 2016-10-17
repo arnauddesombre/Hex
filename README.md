@@ -1,5 +1,6 @@
 # Hex
-Classical game of Hex (Hex is a board game for two players. It was independently invented by Piet Hein in 1942 and John Nash in 1948 and became popular after 1950 under the name Hex).
+Classical game of Hex<br>
+(Hex is a board game for two players. It was independently invented by Piet Hein in 1942 and John Nash in 1948 and became popular after 1950 under the name Hex).
 
 This repository includes the source code in C++11, a compiled version (Windows 64-bits), and a configuration launch hex.bat file, which allows the change of board size, pie rule usage, first player (player or computer), colors...
 
