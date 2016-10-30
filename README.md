@@ -15,6 +15,6 @@ Hex's Artificial Intelligence is a Monte-Carlo, and the software uses parallel t
 
 Hex is a board game described in [Wikipedia](https://en.wikipedia.org/wiki/Hex_%28board_game%29). The rules are simple:
 
-Hex is most commonly played on a board with 11x11 cells, but it can also be played on a board of another size. The red player tries to connect the two red borders with a chain of red cells by coloring empty cells red, while the blue player tries the same with the blue borders.
-The game can never end with a draw and when all cells have been colored, there must exists either a red chain or a blue chain.
+Hex is most commonly played on a board with 11x11 cells, but it can also be played on a board of another size. The red player tries to connect the two red borders with a chain of red cells by coloring empty cells red, while the blue player tries the same with the blue borders.<br>
+The game can never end with a draw and when all cells have been colored, there must exists either a red chain or a blue chain.<br>a
 The player who moves first has a big advantage. In order to compensate for this, there is often used the so-called 'swap rule' or 'pie rule': After the first move, the second player is allowed to swap the sides.
