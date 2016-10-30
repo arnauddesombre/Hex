@@ -2,12 +2,12 @@
 Classical game of Hex
 (Hex is a board game for two players. It was independently invented by Piet Hein in 1942 and John Nash in 1948 and became popular after 1950 under the name Hex).
 
-This repository includes the source code in C++11, a compiled version (for Windows 64-bits), and a well documented configuration launch hex.bat file, which allows the change of board size, pie rule usage, first player (player or computer), colors...
+This repository includes the source code in C++11, a compiled version (for Windows 64-bits), and a well documented configuration launch file (hex.bat), which allows the change of board size, pie rule usage, first player (player or computer), colors...
 
 Compilation instructions are included in the hex.cpp stand-alone source code - it is the only source file needed. I've used MinGW and compiled using:
 
     g++ -Wall -O3 -o "hex" "hex.cpp" -s -std=c++11 -static-libgcc -static-libstdc++ -static -lwinpthread
-If you have a C++11 version installed, you can generate a smaller .exe file using:
+If you have MinGW installed, you can generate a smaller .exe file using:
 
     g++ -Wall -O3 -o "hex" "hex.cpp" -s -std=c++11
 
