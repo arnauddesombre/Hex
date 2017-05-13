@@ -19,4 +19,4 @@ Hex is most commonly played on a board with 11x11 cells, but it can also be play
 The game can never end with a draw and when all cells have been colored, there must exists either a red chain or a blue chain.<br>
 The player who moves first has a big advantage. In order to compensate for this, there is often used the so-called 'swap rule' or 'pie rule': After the first move, the second player is allowed to swap the sides.
 
-![Screenshot](https://s7.postimg.org/3q796gr2j/Hex.png)
+![Screenshot](https://s18.postimg.org/z6oa6kccp/Hex.png
